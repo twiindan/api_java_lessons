@@ -1,12 +1,11 @@
-package basics;
+package basics._01.basics;
 
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
+import org.testng.Assert;
 
-import static io.restassured.RestAssured.given;
 import static io.restassured.RestAssured.when;
 import static org.hamcrest.Matchers.equalTo;
-import org.testng.Assert;
 
 public class Basics {
 

@@ -1,4 +1,4 @@
-package basics;
+package basics._07.delete;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;

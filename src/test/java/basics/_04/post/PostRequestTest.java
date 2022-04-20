@@ -1,4 +1,4 @@
-package basics;
+package basics._04.post;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;

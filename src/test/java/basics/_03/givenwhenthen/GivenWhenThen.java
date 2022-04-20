@@ -1,4 +1,4 @@
-package basics;
+package basics._03.givenwhenthen;
 
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;

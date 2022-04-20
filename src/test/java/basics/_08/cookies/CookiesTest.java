@@ -1,4 +1,4 @@
-package basics;
+package basics._08.cookies;
 
 import io.restassured.RestAssured;
 import io.restassured.http.Cookies;

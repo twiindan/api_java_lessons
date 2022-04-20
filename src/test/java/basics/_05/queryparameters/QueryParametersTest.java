@@ -1,4 +1,4 @@
-package basics;
+package basics._05.queryparameters;
 
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;

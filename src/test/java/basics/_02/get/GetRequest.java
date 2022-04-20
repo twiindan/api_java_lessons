@@ -1,4 +1,4 @@
-package basics;
+package basics._02.get;
 
 import io.restassured.RestAssured;
 import io.restassured.http.Header;

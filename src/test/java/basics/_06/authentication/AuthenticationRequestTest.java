@@ -1,4 +1,4 @@
-package basics;
+package basics._06.authentication;
 
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;

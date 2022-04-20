@@ -1,4 +1,4 @@
-package exercices;
+package serialization.exercices;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
